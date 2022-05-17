@@ -109,7 +109,7 @@ main img {
 }
 
 #concept::before {
-  content: url(/img/forest.jpg);
+  content: url(../img/forest.jpg);
   z-index: 1;
   background-size: cover;
   background-position: center;
